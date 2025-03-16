@@ -4,9 +4,9 @@
     "version": "1.0.0",
     "displayName": "TripleA-EventSystems",
     "unity": "2021.3",
-    "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
-    "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
-    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+    "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems",
+    "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems/blob/main/CHANGELOG.md",
+    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems/blob/main/LICENSE",
     "dependencies": {},
     "keywords": [
         "Events System",
