@@ -1,6 +1,6 @@
 {
     "name": "com.TripleAStudios.EventSystems",
-    "rootNamespace": "TripleA",
+    "rootNamespace": "TripleA.EventSystem",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,12 +1,12 @@
 {
     "name": "com.triple-a-studios.event-systems",
     "description": "Event System for Unity",
-    "version": "1.0.0",
-    "displayName": "TripleA-EventSystems",
+    "version": "1.0.1",
+    "displayName": "TripleA - Event Systems",
     "unity": "2021.3",
     "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems",
     "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems/blob/main/CHANGELOG.md",
-    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems/blob/main/LICENSE",
+    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-EventSystems",
     "dependencies": {},
     "keywords": [
         "Events System",

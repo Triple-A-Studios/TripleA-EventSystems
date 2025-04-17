@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace TripleA.EventChannel
+namespace TripleA.EventSystem.EventChannel
 {
 	public abstract class EventChannel<T> : ScriptableObject
 	{
